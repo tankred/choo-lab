@@ -8,3 +8,19 @@ Once your new remix is open, select `index.js` in the left hand sidebar to get s
 
 Make sure to follow the tutorial at [https://handbook.choo.io/your-first-choo-app](https://handbook.choo.io/your-first-choo-app)
 
+## handbook
+
+### update dependencies
+
+npm audit fix 
+npm --version
+npm i -g npm
+npm --version
+ncu
+ncu -u
+npm install
+
+### start localhost
+
+npm start
+ 
