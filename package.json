@@ -14,5 +14,8 @@
     "uglifyify": "^5.0.1",
     "unassertify": "^2.1.1",
     "yo-yoify": "^4.3.0"
+  },
+  "devDependencies": {
+    "async-limiter": "^1.0.0"
   }
 }
