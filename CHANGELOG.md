@@ -6,7 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [Released]
+## [Released
+
+## [0.2.0] - 2020-08-05
+### Changed
+- Update elliptic (infosec issue) $ npm update elliptic --depth 7
 
 ## [0.1.0] - 2020-03-23
 ### Changed
