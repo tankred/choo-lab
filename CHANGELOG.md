@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released
 
+## [0.6.3] - 2026-03-06
+### Removed
+- package lock: infosec: minimatch has a ReDoS via repeated wildcards with non-matching literal in pattern, High severity
+
 ## [0.6.2] - 2026-02-23
 ### Changed
 - Bump version (and sync with package version)
